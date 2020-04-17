@@ -1,5 +1,0 @@
-Choosing the right estimator
-https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
-
-Classifier comparison
-https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
